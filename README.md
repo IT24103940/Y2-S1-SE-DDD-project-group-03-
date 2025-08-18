@@ -52,6 +52,3 @@ The Web-Based Apartment Sales System is a full-stack **Spring Boot** web applica
 * **Wijesinghe Y.A.H.D. (IT24101174)** – Customer Support Officer
 * **Dombagammana K.D.M.W\.O. (IT24101196)** – Marketing Executive
 * **Malewana G.I.D.M. (IT24101344)** – Admin Officer
-
-🔥 This version matches your wedding example, but customized for your **Apartment Sales System**.
-Do you want me to also make a **shorter one-page summary version** (for presentation slides), or keep it as the full detailed write-up for the report?
