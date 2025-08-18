@@ -1,7 +1,3 @@
-Got it bro ✅ I’ll make your **Apartment Sales System details** in the same clean style as the Wedding one you gave. Here’s the draft:
-
-
-
 🏢 **Web-Based Apartment Sales System**
 
 This is a group project for the **Software Engineering SE2030** module at **SLIIT**.
